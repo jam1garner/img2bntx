@@ -1,4 +1,3 @@
-use std::fs::File;
 use std::path::PathBuf;
 use structopt::StructOpt;
 
